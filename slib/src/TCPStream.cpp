@@ -1,5 +1,3 @@
 #include "TCPStream.h"
 
-namespace slib {
-
-}
+namespace slib {}
